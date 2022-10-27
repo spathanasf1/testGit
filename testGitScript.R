@@ -1,2 +1,1 @@
-# git test
-# i wrote this after pulling testBranch
+# simulating like i deleted the first script
